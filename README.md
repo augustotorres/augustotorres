@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Augusto Torres Serafim, tenho 24 anos e sou natural do São Paulo. Atualmente, estou estudando e aperfeiçoando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos e desafios que me permitam evoluir como desenvolvedor. Acredito que a tecnologia tem o poder de transformar realidades, e é isso que me motiva todos os dias a seguir nesse caminho. Seja muito bem-vindo(a) ao meu perfil!
+Me chamo Augusto Torres Serafim, tenho 24 anos e sou natural de São Paulo. Atualmente, estou estudando e aperfeiçoando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos e desafios que me permitam evoluir como desenvolvedor. Acredito que a tecnologia tem o poder de transformar realidades, e é isso que me motiva todos os dias a seguir nesse caminho. Seja muito bem-vindo(a) ao meu perfil!
 
 
 ### 🤖 Linguagens e Tecnologias
